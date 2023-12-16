@@ -38,6 +38,7 @@ function App() {
     }
   }
   const resetBtn=()=>{
+    setInterest(0)
     setprinciple(0)
     setRate(0)
     setYear(0)
